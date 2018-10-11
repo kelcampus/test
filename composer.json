@@ -1,0 +1,11 @@
+{
+    "name": "kelcampus/test",
+    "authors": [
+        {
+            "name": "Kelven G. Campos",
+            "email": "kelcampus@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
