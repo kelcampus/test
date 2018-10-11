@@ -6,6 +6,10 @@
             "email": "kelcampus@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Kelcampus\\Test\\": "src/"
+        }
+    },
     "require": {}
 }
